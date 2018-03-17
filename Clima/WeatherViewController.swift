@@ -9,7 +9,7 @@
 import UIKit
 
 
-class WeatherViewController: UIViewController, {
+class WeatherViewController: UIViewController {
     
     //Constants
     let WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather"
