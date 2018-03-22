@@ -2,6 +2,8 @@
 
 L'app recupera da OpenWeather il meteo per la posizione attuale o per la città selezionata dall'utente.
 
+Nota: Generare un proprio ID su OpenWeather e riscaricare Pods per testare l'App
+
 Sunto passaggi modifica app in XCode 9:
 
     ° clonazione progetto madre(appbrewery.com)
@@ -17,8 +19,7 @@ Sunto passaggi modifica app in XCode 9:
     ° delegati e protocolli 
     
     ° segues
-    
-    
+     
 ## App Finita
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Clima.gif)
 
